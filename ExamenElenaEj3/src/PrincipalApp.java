@@ -12,7 +12,7 @@ public class PrincipalApp {
 		contarMenores(numero);
 		contarMayores(numero);
 		contarJubilados(numero);
-		//contarMenores(numero);
+		
 
 		System.out.println("Menores de edad: " + numero + " Mayores de edad : " + numeroM + " Jubilados: " + numeroJ);
 	}
